@@ -1,5 +1,5 @@
 <div align="center">
-  <b>BE A GANDU AND ROCK THE FUCKING WORLD</b>
+  <h1>BE A <b>GANDU</b> AND ROCK THIS FUCKING WORLD</h1>
 </div>
 
 <!--<div align="center">
