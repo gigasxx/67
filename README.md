@@ -1,9 +1,8 @@
 <div align="center">
-  # BE A GANDU AND ROCK THE FUCKING WORLD
+  <b>BE A GANDU AND ROCK THE FUCKING WORLD</b>
 </div>
-###
 
-<div align="center">
+<!--<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
