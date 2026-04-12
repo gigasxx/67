@@ -2,51 +2,31 @@
   <h1>BE A <span style="font-weight:bold; color:red;">GANDU</span> AND ROCK THIS FUCKING WORLD</h1>
 </div>
 
-<!--<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" onclick="xnxx.com"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#1A202C" stroke="#4A5568" />
+    
+    <text x="25" y="45" fill="#E2E8F0" style="font: bold 24px 'Segoe UI', Ubuntu, sans-serif;">Most Used Languages</text>
+
+    <mask id="bar-mask">
+      <rect x="25" y="75" width="445" height="8" rx="4" fill="white" />
+    </mask>
+    <g mask="url(#bar-mask)">
+      <rect x="25" y="75" width="242.6" height="8" fill="#3182CE" /> <rect x="267.6" y="75" width="120.5" height="8" fill="#F6E05E" /> <rect x="388.1" y="75" width="52.0" height="8" fill="#B83280" /> <rect x="440.1" y="75" width="16.5" height="8" fill="#E53E3E" /> <rect x="456.6" y="75" width="13.4" height="8" fill="#4A5568" /> </g>
+
+    <circle cx="33" cy="115" r="6" fill="#3182CE" />
+    <text x="50" y="120" fill="#CBD5E0" style="font: 14px 'Segoe UI', Ubuntu, sans-serif;">Python 54.52%</text>
+
+    <circle cx="33" cy="145" r="6" fill="#F6E05E" />
+    <text x="50" y="150" fill="#CBD5E0" style="font: 14px 'Segoe UI', Ubuntu, sans-serif;">JavaScript 27.08%</text>
+
+    <circle cx="33" cy="175" r="6" fill="#B83280" />
+    <text x="50" y="180" fill="#CBD5E0" style="font: 14px 'Segoe UI', Ubuntu, sans-serif;">SCSS 11.69%</text>
+
+    <circle cx="250" cy="115" r="6" fill="#E53E3E" />
+    <text x="267" y="120" fill="#CBD5E0" style="font: 14px 'Segoe UI', Ubuntu, sans-serif;">HTML 3.70%</text>
+
+    <circle cx="250" cy="145" r="6" fill="#4A5568" />
+    <text x="267" y="150" fill="#CBD5E0" style="font: 14px 'Segoe UI', Ubuntu, sans-serif;">CSS 3.01%</text>
+  </svg>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
