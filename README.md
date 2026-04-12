@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>BE A <span font-weight:bold; color:red;>GANDU</span> AND ROCK THIS FUCKING WORLD</h1>
+  <h1>BE A <span style="font-weight:bold; color:red;">GANDU</span> AND ROCK THIS FUCKING WORLD</h1>
 </div>
 
 <!--<div align="center">
