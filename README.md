@@ -14,6 +14,8 @@
     <td style="padding: 10px;">
       <img width="1536" height="2048" alt="Image" src="https://github.com/user-attachments/assets/fdf13610-7106-4ec5-bc99-d61945ca68ea" />
     </td>
+  </tr>
+  <tr>
     <td style="padding: 10px;">
       <img width="1536" height="2048" alt="Image" src="https://github.com/user-attachments/assets/5e0b7094-7fb3-4ce0-8f4d-fe118fa39bed" />
     </td>
